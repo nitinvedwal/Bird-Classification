@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 16 21:52:14 2020
-
-@author: 91811
-"""
-##
 #import matplotlib.pyplot as plt
 #import os
 ##import cv2
