@@ -1,17 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 14 15:00:57 2020
-
-@author: 91811
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 14 13:27:23 2020
-
-@author: 91811
-"""
-
 import pandas as pd
 import os
 
